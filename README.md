@@ -23,13 +23,6 @@ This project is a modern mobile banking application built with SwiftUI. It provi
 - Implements modern iOS design patterns
 - Supports dark and light mode
 - Utilizes native iOS authentication capabilities
-## Screenshots
-![Onboarding](images/onboarding.png)
-![Login](images/login.png)
-![Home](images/home.png)
-![My card](images/my_card.png)
-![Recharge](images/recharge_flow.png)
-![Bank to Bank](images/banktobank_flow.png)
 
 ## Getting Started
 ### Prerequisites
@@ -62,3 +55,11 @@ open StudyApp.xcodeproj
 - Integrate with Firebase for database and authentication
 - Add Combine for use reactive programming
 - Add unit tests
+
+## Screenshots
+![Onboarding](images/onboarding.png)
+![Login](images/login.png)
+![Home](images/home.png)
+![My card](images/my_card.png)
+![Recharge](images/recharge_flow.png)
+![Bank to Bank](images/banktobank_flow.png)
