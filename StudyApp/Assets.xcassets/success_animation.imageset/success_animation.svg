@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background circles -->
+  <circle cx="100" cy="100" r="90" fill="#e6f7ff" opacity="0.5"/>
+  <circle cx="100" cy="100" r="70" fill="#b3e0ff" opacity="0.5"/>
+  
+  <!-- Happy face characters -->
+  <g transform="translate(50, 100)">
+    <!-- Left character body -->
+    <circle cx="0" cy="0" r="25" fill="#4da6ff"/>
+    
+    <!-- Left character eyes -->
+    <circle cx="-8" cy="-8" r="4" fill="white"/>
+    <circle cx="8" cy="-8" r="4" fill="white"/>
+    
+    <!-- Left character smile -->
+    <path d="M-12,5 Q0,15 12,5" stroke="white" stroke-width="3" fill="none"/>
+    
+    <!-- Left character arms -->
+    <path d="M-25,-5 Q-35,-20 -45,-10" stroke="#4da6ff" stroke-width="6" fill="none"/>
+    <path d="M25,-5 Q35,-20 45,-10" stroke="#4da6ff" stroke-width="6" fill="none"/>
+  </g>
+  
+  <g transform="translate(150, 100)">
+    <!-- Right character body -->
+    <circle cx="0" cy="0" r="25" fill="#4da6ff"/>
+    
+    <!-- Right character eyes -->
+    <circle cx="-8" cy="-8" r="4" fill="white"/>
+    <circle cx="8" cy="-8" r="4" fill="white"/>
+    
+    <!-- Right character smile -->
+    <path d="M-12,5 Q0,15 12,5" stroke="white" stroke-width="3" fill="none"/>
+    
+    <!-- Right character arms -->
+    <path d="M-25,-5 Q-35,-20 -45,-10" stroke="#4da6ff" stroke-width="6" fill="none"/>
+    <path d="M25,-5 Q35,-20 45,-10" stroke="#4da6ff" stroke-width="6" fill="none"/>
+  </g>
+  
+  <!-- High five hands -->
+  <path d="M95,80 L105,80" stroke="#4da6ff" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- Sparkles -->
+  <g fill="#ffcc00">
+    <circle cx="100" cy="60" r="3"/>
+    <circle cx="120" cy="70" r="2"/>
+    <circle cx="80" cy="70" r="2"/>
+    <circle cx="70" cy="90" r="3"/>
+    <circle cx="130" cy="90" r="3"/>
+    <circle cx="90" cy="50" r="2"/>
+    <circle cx="110" cy="50" r="2"/>
+  </g>
+</svg>
