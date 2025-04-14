@@ -4,7 +4,7 @@ This project is a modern mobile banking application built with SwiftUI. It provi
 
 ## Features
 - Seamless Onboarding : User-friendly onboarding process with informative screens introducing the app's key features.
-- Secure Authentication : Login and signup functionality with password protection and biometric authentication (fingerprint).
+- Secure Authentication : Login and signup functionality with password protection.
 - Dashboard : Comprehensive dashboard displaying account balance, credit card details, and quick access to essential banking services.
 - Financial Management :
   - Credit card management with balance display
@@ -24,7 +24,12 @@ This project is a modern mobile banking application built with SwiftUI. It provi
 - Supports dark and light mode
 - Utilizes native iOS authentication capabilities
 ## Screenshots
-[Insert screenshots of key screens here]
+![Onboarding](images/onboarding.png)
+![Login](images/login.png)
+![Home](images/home.png)
+![My card](images/my_card.png)
+![Recharge](images/recharge_flow.png)
+![Bank to Bank](images/banktobank_flow.png)
 
 ## Getting Started
 ### Prerequisites
@@ -33,18 +38,18 @@ This project is a modern mobile banking application built with SwiftUI. It provi
 - Swift 5.7 or later
 ### Installation
 1. Clone the repository
-```bash
+```
 git clone https://github.com/yourusername/fintech-banking-app.git
- ```
 ```
 
 2. Open the project in Xcode
-```bash
+```
 cd fintech-banking-app
 open StudyApp.xcodeproj
- ```
+```
 
 3. Build and run the application on your simulator or device
+
 ## Future Enhancements
 - Transaction history and analytics
 - Investment portfolio management
